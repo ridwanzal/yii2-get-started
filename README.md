@@ -7,12 +7,12 @@ Yii is a high performance, component-based PHP Framework for rapidly developing 
 
 
 ## Reason to use Yii PHP Framework
-**Gii**
+- **Gii**
 Yii 2 has a code generation tool called Gii. Gii analyzes your database tables and automatically builds PHP models from them. Not only that, but it analyzes the relationships between tables and automatically generates the relational code into the models. For example, if you had a data structure with 30 tables, and half of them had a user_id column that was meant to reference the id of the user table, Gii would build the appropriate relationships for you, all in one go. Not only is this a time-saver, but this also gives you very consistent code because it is always done the same way and it helps you adopt this discipline.
 DB-first approach
 Since Yii 2 allows you to essentially import the models from the data structure, you can start your project by really thinking through your data structure. Whether you are a single developer or part of an enterprise level team, you are essentially being given the same task, the same overall mission. You have to serve data from a database into a browser- friendly format, typically using PHP, HTML, and Javascript. We use a PHP framework to make this task easier, and by saying that, we are admitting upfront that it’s not an easy task
-**Minimum PHP Skills**
-**Beautiful and good documentation**
+- **Minimum PHP Skills**
+- **Beautiful and good documentation**
 
 
 ## Model-View-Controller Paradigm
